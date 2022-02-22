@@ -1,0 +1,658 @@
+.home{
+    margin:0;
+    padding: 0;
+    overflow-x:hidden ;
+}
+.headingText{
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 57.9452px;
+    line-height: 130%;
+    /* or 75px */
+    
+    
+    color: #000000;
+}
+.head-sub{
+    font-family: Public Sans;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 160%;
+
+
+
+color: #000000;
+
+}
+.num{
+    font-family: Satoshi;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 160%;
+    border-left:3px solid #CA9DFC;
+    /* or 38px */
+    
+    
+    color: #000000;  
+}
+.numberauction{
+    font-family: Satoshi;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 160%;
+/* or 38px */
+
+
+color: #000000;
+
+}
+.btn-ex{
+    background: #000000;
+border-radius: 8px;
+Padding :16px 40px 16px 40px;
+color:white;
+border: none;
+}
+.cardheading{
+    color: #FF3392;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 21px;
+}
+.sub-h{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.12px;
+    line-height: 22px;
+   
+    
+    text-align: center;
+    
+    color: #565662;
+
+}
+.c-dec{
+    background-color:
+    #FFB81F ;
+    border-radius: 2rem;
+    height: 70.23px !important;
+}
+.c-dec .card-body p{
+    margin-bottom: 0px;
+}
+.j-token{
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27.95px;
+    line-height: 130%;
+    /* or 36px */
+    
+    
+    color: #000000;
+    
+}
+.sec-hand{
+    font-family: Georgia;
+font-style: normal;
+font-weight: normal;
+font-size: 55.5591px;
+/* line-height: 127%; */
+/* or 71px */
+
+/* text-align: center; */
+letter-spacing: 0.631353px;
+
+color: #1A1A23;
+}
+.b-clr{
+    color: #FF3392;
+}
+.carditemStyling{
+    background: #FFF9FB;
+border: 1.31241px solid rgba(255, 51, 146, 0.5);
+box-sizing: border-box;
+border-radius: 15.0927px;
+height:259.89px ;
+/* width: 250px; */
+padding: 52px 16px 16px 16px;
+}
+.abouText{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+
+color: #7C7B97;
+}
+#navbarSupportedContent ul li a{
+    font-family: Public Sans;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+.b-login{
+    font-family: Satoshi;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 120%;
+    /* identical to box height, or 22px */
+    
+    letter-spacing: 0.02em;
+    border: 1px solid black;
+    
+    color: #000000;
+}
+.b-loginstyle{
+    background: #000000;
+    border-radius: 8px;
+    color: white;
+    /* Padding :12px 12px 12px 12px */
+}
+.sectiontextnft{
+    font-family: Georgia;
+font-style: normal;
+font-weight: normal;
+font-size: 55.56px;
+line-height: 130%;
+/* or 72px */
+
+
+color: #000000;
+text-align: center;
+/* position: absolute; */
+
+/* position: absolute;  */
+left: 0; 
+right: 0; 
+top: 214px;
+margin-left: auto; 
+margin-right: auto; 
+/* width: 100px; */
+}
+.dev-img{
+    width: 228.08px;
+/* height: 268.35px; */
+
+}
+.cardSedignNft{
+    /* opacity: 0.68; */
+border: 1px solid #FF3392;
+box-sizing: border-box;
+box-shadow: 13px 27px 198px rgba(0, 0, 0, 0.06);
+border-radius: 67px;
+}
+.deviltext{
+    /* font-family: Public Sans; */
+font-style: normal;
+/* font-weight: 800; */
+font-size: 21.3589px;
+line-height: 160%;
+/* or 34px */
+
+
+color: #474747;
+}
+.nftcollectionabsolute{
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    /* width: 100px;  */
+}
+.socialmedia{
+    font-family: Georgia;
+font-style: normal;
+font-weight: normal;
+font-size: 44px;
+line-height: 130%;
+/* or 57px */
+
+letter-spacing: 0.5px;
+
+color: #FF3392;
+
+}
+.socialmediacontent{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 33px;
+    /* or 165% */
+    
+    letter-spacing: 0.02em;
+    
+    color: #1A1A23;
+}
+.cardpositonartist{
+    position: absolute;
+    width: 231px;
+    left: 35px;
+}
+.cardavatar{
+    position: absolute;
+    width: 80px;
+    left: 0;
+    /* width: 98%; */
+    margin-left: auto;
+    margin-right: auto;
+    right: 0;
+    top: 90px;
+}
+.cardsectionfooter{
+    position: absolute;
+}
+.carddesignartist{
+    border: none;
+}
+.temon{
+
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+text-align: center;
+
+/* identical to box height */
+
+letter-spacing: 0.388274px;
+
+color: #FF3392;
+}
+.code{
+    text-align: center;
+
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+
+/* identical to box height */
+
+letter-spacing: 0.388274px;
+
+color: #5F6882;
+}
+.textcontent{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+    bottom: 60px;
+
+
+}
+.textcontent p{
+    margin-bottom: 0px;
+    
+}
+.textconnentus{
+    font-family: Georgia;
+font-style: normal;
+font-weight: normal;
+font-size: 55.56px;
+line-height: 59px;
+margin-top: 7vw;
+/* or 106% */
+
+
+color: #000000;
+}
+.btnfollow{
+    background: #0081FF;
+border-radius: 290px;
+color: white;
+width: 324.51px;
+height: 62.81px;
+}
+.icons{
+    width: 62px;
+    /* height: 113.71px;   */
+}
+
+.connect{
+    background: #FFEFF6;
+/* opacity: 0.2; */
+}
+video{
+    transform: scale(1.8); 
+}
+.cardstylingcollection{
+    border: 1px solid #FF3392;
+    box-shadow: 13px 27px 198px rgba(0, 0, 0, 0.06);
+    border-radius: 67px;
+}
+.cardstylingimg{
+    width: 200px;
+}
+.btnexplore{
+    width: 305px;
+height: 56px;
+left: 976.56px;
+top: 4964.5px;
+
+background: #000000;
+border-radius: 8px;
+color: white;
+}
+.nftcollection .imgrectengle{
+    position: absolute;
+    top: -217px;
+}
+.nftcollection{
+    margin-top: 10vw;
+}
+.cardstylingstats{
+    width: 480.37px;
+height: 190.98px;
+
+
+
+border: 4px solid rgba(255, 51, 146, 0.57);
+
+border-radius: 29px;
+}
+.stats{
+    font-family: Georgia;
+font-style: normal;
+font-weight: normal;
+font-size: 34px;
+line-height: 130%;
+/* or 44px */
+
+letter-spacing: 0.5px;
+
+color: #000000;
+}
+.she{
+    position: absolute;
+    top: 23px;
+    width: 275px;
+}
+
+.swiper {
+    width: 80%;
+    /* height: 100%; */
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%; 
+    /* padding: 20px; */
+  }
+  .sliderline{
+      position: absolute;
+  }
+  .thistitles{
+   
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 40px;
+    /* identical to box height, or 200% */
+    
+    text-align: center;
+    
+    color: #424242;
+  }
+  .content p{
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    
+    text-align: center;
+    
+    color: #7C7B97;
+  }
+  .content{
+      text-align: center;
+  }
+  .btnstarted{
+    width: 180px;
+    height: 48px;
+ 
+    
+    filter: drop-shadow(0px 13px 17px rgba(119, 87, 239, 0.2));
+    border-radius: 56px;
+    border: 2px solid black;
+    color: #FF3392;
+    font-weight: 500;
+  }
+  .borderstyling{
+      position: absolute;
+  }
+  .linedotted{
+      position: absolute;
+      top: 60px;
+  }
+  .linedotted2{
+    position: absolute;
+    top: 60px;
+  }
+  .footer{
+    background: #FFF5F5;
+  }
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul li{
+      
+
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 33px;
+/* identical to box height, or 183% */
+
+
+color: #181818;
+  }
+  .widthstyling{
+      position: absolute;
+
+  }
+
+
+  @media screen and (max-width: 765px) {
+    .headingText{
+        font-size: 34.9452px !important;  
+    }
+    .btn-ex{
+        Padding: 9px 26px 9px 40px; 
+    }
+    video {
+        transform: scale(1.4);
+        position: absolute;
+        top: 105vw;
+  }
+  .j-token{
+    font-size: 17.95px;
+  }
+  .sec-hand{
+    font-size: 34.9452px !important;  
+  }
+  .nftcollection .imgrectengle {
+   
+    display: none;
+}
+.sectiontextnft{
+    font-size: 34.9452px !important;  
+}
+.social-m-img{
+    width: 100% !important;
+}
+.cardstylingstats{
+    width: auto;
+    height: auto;
+}
+.cardpositonartist{
+    position: absolute;
+    width: 248px;
+    left: 51px;
+}
+.temon{
+    font-size: 22px;
+}
+.cardavatar{
+    width: 102px;
+}
+.textconnentus{
+    font-size: 34.9452px !important;  
+}
+.btnfollow{
+    width: 159.51px;
+    height: 41.81px;
+}
+}
+
+.aboutimg{
+    width: 80%;
+    margin-top: 30%;
+}
+.aboutimg2{
+    width: 80%;
+   
+}
+.aboutimg3{
+    width: 70%;
+    margin-top: 10%;
+}
+.art{
+    font-family: Satoshi;
+font-style: normal;
+font-weight: normal;
+font-size: 16.0192px;
+line-height: 140%;
+/* identical to box height, or 22px */
+
+
+color: #676767;
+}
+.check{
+  color:#FF3392   
+}
+.eth{
+  
+font-style: normal;
+font-weight: bold;
+font-size: 17.7991px;
+line-height: 140%;
+/* identical to box height, or 25px */
+
+text-align: right;
+
+color: #FF3392;
+}
+.textstartcollection{
+    font-family: Georgia;
+font-style: normal;
+font-weight: normal;
+font-size: 50.7527px;
+line-height: 130%;
+/* or 66px */
+
+
+color: #000000;
+}
+.textsubtext{
+    font-family: Public Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 17.5175px;
+line-height: 160%;
+/* identical to box height, or 28px */
+
+
+color: #000000;
+}
+.btnWhitelist{
+    width: 307px;
+    height: 56px;
+    left: 786.99px;
+    top: 3583.88px;
+    
+    background: #FF3392;
+    border-radius: 16px;  
+    color: white;
+}
+.btnacc{
+    
+}
+.name{
+    font-family: Georgia;
+font-style: normal;
+font-weight: normal;
+font-size: 35.7771px;
+line-height: 25px;
+/* identical to box height, or 106% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.25);
+}
+.founder{
+    font-family: Milestone;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.4394px;
+    line-height: 23px;
+    /* identical to box height, or 106% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);  
+}
+.nameposition{
+    bottom: 1px;
+    left: 31px;
+}
+.p-sty{
+    padding: 0px 20px;
+}
+.iconpositon{
+    position: absolute;
+    top: 145px;
+    right: -4px;
+}
+.imgroadmap{
+    background-image:url('../Frame_2098.png');
+background-repeat:no-repeat;
+background-size:contain;
+background-position:center;
+height: 27vw;
+}
